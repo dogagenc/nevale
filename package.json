@@ -1,0 +1,13 @@
+{
+  "name": "nevale",
+  "version": "0.1.0",
+  "description": "Unnecessary tool to run Javascript for command line piping.",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogagenc/nevale.git"
+  },
+  "keywords": [],
+  "author": "Doğa Genç <dogagenc@gmail.com>",
+  "license": "ISC"
+}
