@@ -1,5 +1,5 @@
 # nevale
-Unnecessary tool to run Javascript for command line piping.
+Unnecessary tool to run JavaScript for command line piping.
 
 ## Install
 
