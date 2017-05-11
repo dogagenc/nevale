@@ -1,7 +1,7 @@
 {
   "name": "nevale",
-  "version": "0.1.1",
-  "description": "Unnecessary tool to run Javascript for command line piping.",
+  "version": "0.1.2",
+  "description": "Unnecessary tool to run JavaScript for command line piping.",
   "bin": "index.js",
   "repository": {
     "type": "git",
